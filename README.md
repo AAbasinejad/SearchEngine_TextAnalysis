@@ -1,4 +1,4 @@
-# SearchEngineV1.0
+# Music_SearchEngine
 
 * __Introduction__: Analyzing the text of Songs and building a search engine for them.
 
