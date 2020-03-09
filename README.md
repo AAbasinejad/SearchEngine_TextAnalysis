@@ -1,4 +1,4 @@
-# Music Search Engine
+# Search Engine and Text Analysis
 
 * __Introduction__: Search Enging and Text analysis using Song's Lyrics Data.
 
