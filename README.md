@@ -1,5 +1,5 @@
 # Music Search Engine
 
-* __Introduction__: Analyzing the text of Songs and building a search engine for them.
+* __Introduction__: Search Enging and Text analysis using Song's Lyrics Data.
 
-__Note__: To find detailed information about project and results please check the [Main](https://github.com/AAbasinejad/SearchEngineV1.0/blob/master/Musics-SearchEngine-And-Analysis.ipynb) File.
+__Note__: To find detailed information about this project and results please check the [Main](https://github.com/AAbasinejad/SearchEngineV1.0/blob/master/Musics-SearchEngine-And-Analysis.ipynb) File.
